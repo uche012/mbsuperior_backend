@@ -1,8 +1,0 @@
-{
-  "name": "mbsuperior_backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/uche012/mbsuperior_backend.git",
-  "author": "uche <scryptos@protonmail.com>",
-  "license": "MIT"
-}
