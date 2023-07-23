@@ -14,7 +14,7 @@ copy database link
 
 in api folder, install mongoose and dotenv
 yarn add mongoose
-yarn add dotenv
+yarn add dotenv   
 
 create a .env file in api folder
 create a .gitignore file in api folder

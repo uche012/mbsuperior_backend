@@ -10,7 +10,7 @@ import  {getdata }from "../controller/listings"; // getdata function defined in 
 
 const router = Router(); // assign to a variable router
 //defines HTTP METHOD BEING USED 
-router.get("/", getdata); // define HTTP method that will be used to route/connct/reach server
+router.post("/", getdata); // define HTTP method that will be used to route/connct/reach server
 // leave an empty directory because we do not want to create a new page/link, then call the function that defines what the HTTP method should do or return which has been defined in controller (listings.ts)
 
 
